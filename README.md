@@ -1,3 +1,7 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Era Muha
+================================================================================================================================
+Developer | Computer Science, Programming & Data Analytics
+----------------------------------------------------------
 <div>
   <iframe 
       src="https://cdn.pika.art/v1/dac09cb6-0ad7-4a16-a6a6-5378c50bc3c4/Squish_it_seed1205269457.mp4" 
@@ -6,12 +10,6 @@
       height="500">
   </iframe>
 </div>
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Era Muha
-================================================================================================================================
-Developer | Computer Science, Programming & Data Analytics
-----------------------------------------------------------
-
 Dev | Programming | Data Analytics | Passion for Science, AI, Tech, Business, Music, Movies, Video Games & Travel | Insatiable Curious | Lifelong Learner
 
 * 🌍  I'm based in Milan
