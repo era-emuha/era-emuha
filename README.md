@@ -26,7 +26,7 @@ src="https://img.shields.io/twitch/status/eramx0?logo=twitchsx&style=for-the-bad
 <div>
   <p align="left">
     <a href="https://www.codepen.io/era-emuha" target="_blank" rel="noreferrer"> 
-      <picture> 
+      <picture style="background-color: #669bbc"> 
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> 
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> 
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> 
