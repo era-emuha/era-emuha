@@ -2,14 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 Developer | Computer Science, Programming & Data Analytics
 ----------------------------------------------------------
-<div>
-  <iframe 
-      src="https://cdn.pika.art/v1/dac09cb6-0ad7-4a16-a6a6-5378c50bc3c4/Squish_it_seed1205269457.mp4" 
-      frameborder="0" 
-      width="500" 
-      height="500">
-  </iframe>
-</div>
 Dev | Programming | Data Analytics | Passion for Science, AI, Tech, Business, Music, Movies, Video Games & Travel | Insatiable Curious | Lifelong Learner
 
 * 🌍  I'm based in Milan
@@ -51,3 +43,12 @@ src="https://img.shields.io/twitch/status/eramx0?logo=twitchsx&style=for-the-bad
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/era-emuha/era-emuha" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=era-emuha&repo=era-emuha&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div>
+  <iframe 
+      src="https://cdn.pika.art/v1/dac09cb6-0ad7-4a16-a6a6-5378c50bc3c4/Squish_it_seed1205269457.mp4" 
+      frameborder="0" 
+      width="500" 
+      height="500">
+  </iframe>
+</div>
