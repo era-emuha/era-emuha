@@ -9,7 +9,7 @@ Dev | Programming | Data Analytics | Passion for Science, AI, Tech, Business, Mu
 * 🌍  I'm based in Milan
 * ✉️  You can contact me at [era.emuha@outlook.com](mailto:era.emuha@outlook.com)
 * 🧠  I'm learning always something new
-* 🤝  I'm open to collaborating on  How to Evolve Human Society
+* 🤝  I'm open to collaborate on how to evolve human society
 * ⚡  I'm an Alien
 
 <a href="https://www.github.com/era-emuha" target="_blank" rel="noreferrer"><img
