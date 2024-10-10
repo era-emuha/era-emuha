@@ -47,5 +47,10 @@ src="https://img.shields.io/twitch/status/eramx0?logo=twitchsx&style=for-the-bad
 <div width="100%" align="center"><a href="https://github.com/era-emuha/era-emuha" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=era-emuha&repo=era-emuha&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <div>
-  ![image](https://github.com/user-attachments/assets/bae6653f-b514-4ff2-b710-6ee6508220c0)
+  <iframe 
+      src="https://cdn.pika.art/v1/dac09cb6-0ad7-4a16-a6a6-5378c50bc3c4/Squish_it_seed1205269457.mp4" 
+      frameborder="0" 
+      width="500" 
+      height="500">
+  </iframe>
 </div>
