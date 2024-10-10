@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 Developer | Computer Science, Programming & Data Analytics
 ----------------------------------------------------------
+
 Dev | Programming | Data Analytics | Passion for Science, AI, Tech, Business, Music, Movies, Video Games & Travel | Insatiable Curious | Lifelong Learner
 
 * 🌍  I'm based in Milan
