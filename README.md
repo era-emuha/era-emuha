@@ -4,7 +4,7 @@ Developer | Computer Science, Programming & Data Analytics
 
 ----------------------------------------------------------
 
-Dev | Programming | Data Analytics | Passion for Science, AI, Tech, Business, Music, Movies, Video Games & Travel | Insatiable Curious | Lifelong Learner
+Dev | Computer Science | Programming | Data Analytics | AI | Passionate about Science, Business, Finance, Tech, Music, Movies, Video Games, & Travel | Insatiably Curious | Lifelong Learner
 
 * 🌍  I'm based in Milan
 * ✉️  You can contact me at [era.emuha@outlook.com](mailto:era.emuha@outlook.com)
