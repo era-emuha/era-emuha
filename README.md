@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)there
 ================================================================================================================================
-Developer | Computer Science, Programming, Data Analytics & AI
+Dev | Programming, Data Analysis & AI
 
 ----------------------------------------------------------
 
-Dev | Computer Science | Programming | Data Analytics | AI | Passionate about Science, Business, Finance, Tech, Music, Movies, Video Games, & Travel | Insatiably Curious | Lifelong Learner
+Dev | Computer Science | Programming | Data Analysis | AI | Passionate about Science, Tech, Business, Finance, Music, Movies, Video Games, & Travel | Insatiably Curious | Lifelong Learner | Explorer of Ideas & Worlds
 
 * 🌍  I'm based in Milan
 * ✉️  You can contact me at [emuha@e-muha.com](mailto:emuha@e-muha.com)
